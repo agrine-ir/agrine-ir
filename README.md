@@ -7,7 +7,6 @@
 
 ![Free](https://img.shields.io/badge/Free-Yes-FF4500?style=for-the-badge&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-FF4500?style=for-the-badge&logoColor=white)
-![Cross Platform](https://img.shields.io/badge/Cross%20Platform-Yes-FF4500?style=for-the-badge&logoColor=white)
 
 </div>
 
