@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🌄 **Agrine**
+# 🏢 **Agrine**
 ### _Developing Cross-Platform UI Component Libraries for Modern Apps_
 
 ![Free](https://img.shields.io/badge/Free-Yes-FF4500?style=for-the-badge&logoColor=white)
@@ -38,9 +38,9 @@ This GitHub repository represents the **software division** of Agrine, where we 
 
 ## 📊 Infographic
 
-![Agrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrine&show_icons=true&bg_color=000000&title_color=FF4500&text_color=FFFFFF&icon_color=FF4500)
+![Agrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrine-ir&show_icons=true&bg_color=000000&title_color=FF4500&text_color=FFFFFF&icon_color=FF4500)
 
-[![Agrine Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=agrine&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=000000&title_color=FF4500&text_color=FFFFFF&icon_color=FF4500)](https://github.com/agrine)
+[![Agrine Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=agrine-ir&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=000000&title_color=FF4500&text_color=FFFFFF&icon_color=FF4500)](https://github.com/agrine-ir)
 
 ### 📫 How to reach Agrine
 
