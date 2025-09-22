@@ -39,6 +39,8 @@ This GitHub repository represents the **software division** of Agrine, where we 
 
 ![Agrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrine-ir&show_icons=true&bg_color=000000&title_color=FF4500&text_color=FFFFFF&icon_color=FF4500)
 
+[![Agrine Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=agrine-ir&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=000000&title_color=FF4500&text_color=FFFFFF&icon_color=FF4500)](https://github.com/agrine-ir)
+
 
 
 ### 📫 How to reach Agrine
