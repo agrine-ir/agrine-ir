@@ -1,5 +1,3 @@
-<!-- Agrine README - Dark Theme with OrangeRed & White Palette -->
-
 <div align="center">
 
 # 🏢 **Agrine**
