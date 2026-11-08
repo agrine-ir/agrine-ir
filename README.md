@@ -15,7 +15,7 @@ This GitHub repository represents the **software division** of Agrine, where we 
 **Agrine** is created and maintained by:
 
 ### ✨ Amin Mirzaei  
-- 📍 Location: Tehran, Iran  
+- 📍 Location: Iran, Qom
 - 📧 Email: `aminmirzaei.og@gmail.com`  
 - 🌍 GitHub: [@aminmirzaei-dev](https://github.com/aminmirzaei-dev)
 
