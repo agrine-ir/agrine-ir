@@ -21,12 +21,6 @@ This GitHub repository represents the **software division** of Agrine, where we 
 
 ---
 
-## 📜 License
-All **Agrine** projects are released under the **GPLv3 License**.  
-> Commercial usage is restricted unless permitted, and the original author **Amin Mirzaei** must always be credited.
-
----
-
 <div align="center">
 
 ### ⭐ If you like Agrine, please give the project a Star!  
