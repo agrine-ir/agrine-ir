@@ -22,7 +22,7 @@ This GitHub repository represents the **software division** of Agrine, where we 
 ### ✨ Amin Mirzaei  
 - 📍 Location: Tehran, Iran  
 - 📧 Email: `aminmirzaei.og@gmail.com`  
-- 🌍 GitHub: [@AminMirzaeiOne](https://github.com/AminMirzaeiOne)
+- 🌍 GitHub: [@aminmirzaei-dev](https://github.com/aminmirzaei-dev)
 
 ---
 
