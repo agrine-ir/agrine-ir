@@ -26,12 +26,6 @@ This GitHub repository represents the **software division** of Agrine, where we 
 
 ---
 
-## 🎨 Design & Theme
-- **Primary Colors:** OrangeRed (`#FF4500`) & White (`#FFFFFF`)  
-- **Theme:** Dark Mode UI & Docs  
-
----
-
 ## 📜 License
 All **Agrine** projects are released under the **GPLv3 License**.  
 > Commercial usage is restricted unless permitted, and the original author **Amin Mirzaei** must always be credited.
