@@ -5,9 +5,6 @@
 # 🏢 **Agrine**
 ### _Software infrastructure of Agrine Construction Company_
 
-![Free](https://img.shields.io/badge/Free-Yes-FF4500?style=for-the-badge&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-FF4500?style=for-the-badge&logoColor=white)
-
 </div>
 
 ---
